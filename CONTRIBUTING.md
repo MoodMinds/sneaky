@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Sneaky!
+Thank you for your interest in contributing to **Sneaky**!
 
 **Project Status: Experimental and Under Development**
 
